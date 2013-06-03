@@ -1,0 +1,12 @@
+[0m[[0minfo[0m] [0mLoading global plugins from /home/julianpeeters/.sbt/plugins[0m
+[0m[[0minfo[0m] [0mSet current project to default-18d924 (in build file:/home/julianpeeters/euler/euler003/)[0m
+[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/julianpeeters/euler/euler003/target/scala-2.9.2/classes...[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/euler/euler003/euler003.scala:7: Iterator[Long] does not take parameters[0m
+[0m[[31merror[0m] [0m    if (ps(x)) ps -- (x * x to n by x) [0m
+[0m[[31merror[0m] [0m          ^[0m
+[0m[[31merror[0m] [0m/home/julianpeeters/euler/euler003/euler003.scala:7: value -- is not a member of Iterator[Long][0m
+[0m[[31merror[0m] [0m    if (ps(x)) ps -- (x * x to n by x) [0m
+[0m[[31merror[0m] [0m                  ^[0m
+[0m[[31merror[0m] [0mtwo errors found[0m
+[0m[[31merror[0m] [0m(compile:[31mcompile[0m) Compilation failed[0m
+[0m[[31merror[0m] [0mTotal time: 4 s, completed Jun 3, 2013 4:07:14 PM[0m
