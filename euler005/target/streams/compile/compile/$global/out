@@ -15,7 +15,7 @@
 [0m[[0mdebug[0m] [0mInitially invalidated: Set(/home/julianpeeters/euler/euler005/euler005.scala)[0m
 [0m[[0mdebug[0m] [0mRecompiling all 1 sources: invalidated sources (1) exceeded 50.0% of all sources[0m
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/julianpeeters/euler/euler005/target/scala-2.9.2/classes...[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 6ec44aaf, interfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 687ae63f, interfacing (CompilerInterface) with Scala compiler version 2.9.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-d[0m
 [0m[[0mdebug[0m] [0m	/home/julianpeeters/euler/euler005/target/scala-2.9.2/classes[0m
@@ -23,7 +23,7 @@
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/java-6-openjdk/jre/lib/resources.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rt.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jsse.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/jce.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/charsets.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/netx.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/plugin.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/rhino.jar:/usr/lib/jvm/java-6-openjdk/jre/lib/modules/jdk.boot.jar:/usr/lib/jvm/java-6-openjdk/jre/classes:/home/julianpeeters/.sbt/boot/scala-2.9.2/lib/scala-library.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/julianpeeters/euler/euler005/target/scala-2.9.2/classes[0m
-[0m[[0mdebug[0m] [0mScala compilation took 10.729897866 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 0.572324152 s[0m
 [0m[[0mdebug[0m] [0mStep 2 changed sources and immdediate dependencies:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mNon-trivial strongly connected components: [0m
