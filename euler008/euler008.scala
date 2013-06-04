@@ -34,8 +34,7 @@ val numberString = """73167176531330624919225119674426574742355349194934
 
   val greatestProduct = numberString.replaceAll("\n","")
                                     .sliding(5)
-                                    .map(l => l.map(c => c.toString.toInt)
-                                    .product)
+                                    .map(l => l.map(c => c.toString.toInt).product)
                                     .max
 
     println(greatestProduct)
